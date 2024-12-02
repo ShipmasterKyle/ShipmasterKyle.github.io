@@ -1,8 +1,8 @@
 # Hello! It is I, the great ShipmasterKyle
 
 <div style="position:relative;">
-    <img style="left:0; top:0; zindex:1;" src="static/background.gif">
-    <img style="position:absolute; left:0; top:0; zindex:2;" src="static/Info.png">
+    <img style="left:0; top:0; z-index:1;" src="static/background.gif">
+    <img style="position:absolute; left:0; top:0; z-index:2;" src="static/Info.png">
 </div>
 <div style="position:relative;">
 I'm a self-taught programmer who just does whatever sometimes

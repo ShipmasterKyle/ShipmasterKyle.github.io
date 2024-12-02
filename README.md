@@ -1,9 +1,10 @@
 # Hello! It is I, the great ShipmasterKyle
 
 <div style="position:relative;">
-    <img style="left:0; top:0; zindex:1;" src="static/background.gif">
-    <img style="position:absolute; left:0; top:0; zindex:2;" src="static/Info.png">
+    <img style="left:0; top:0; zindex:1;" src="static/background.gif" alt="Back">
+    <img style="position:absolute; left:0; top:0; zindex:2;" src="static/Info.png" alt="Layer">
 </div>
+
 <div style="position:relative;">
 I'm a self-taught programmer who just does whatever sometimes
 
@@ -13,11 +14,13 @@ I own Cubix Entertainment, an Indie Tech Company as well as Silver Team and Suns
 As you'll see, I do a lot
 
 ### Cool Projects
+
 1. [Crouton](https://github.com/dnschneid/crouton) - Brings Linux Operating Systems to ChromeOS.
 2. [Yesnt](https://github.com/SheepTester/yesnt) - A funny SheepTester (Sean) game where you have to escape the "YES" program.
 3. [StudioCLI](https://github.com/R0bl0x10501050/StudioCLI) - A Command Line Interface for Roblox Studio
 
 ### My Work
+
 1. [Chao Engine](https://github.com/ShipmasterKyle/Chao-Engine) - The first fully functional Chao Garden in Roblox
 2. [Hedgeburst Engine](https://www.roblox.com/library/8261922963/ShipmasterKyles-HedgeBurst-Engine-v3-6) - The Physics Engine for Sonic Earth
 3. [The RealTime Framework](https://github.com/ShipmasterKyle/RobloxMMR) - A set of working band tools that allow you to actually play your instruments in game.
@@ -27,6 +30,7 @@ As you'll see, I do a lot
 7. [Cubix Website](https://cubixdev.org/) - Website designed and built by me and LGM Productions for Cubix
 
 ### Contact
+
 Want to commission me to work on your project or just want to talk?
 
 - Discord: @shipmasterkyle
